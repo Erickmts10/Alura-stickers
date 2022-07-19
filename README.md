@@ -1,2 +1,0 @@
-# Alura-stickers
- Imersão JAVA
